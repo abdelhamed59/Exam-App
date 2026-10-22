@@ -1,0 +1,1 @@
+export const AUDIT_LOG_ENDPOINT = "/admin/audit-logs" as const;

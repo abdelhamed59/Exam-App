@@ -1,0 +1,1 @@
+export const  ADMIN_QUESTION_ENDPOINT="/questions" as const;

@@ -1,0 +1,1 @@
+export const SUBMISSION_ENDPOINT = "/submissions" as const;

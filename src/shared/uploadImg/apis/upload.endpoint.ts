@@ -1,0 +1,1 @@
+export const UPLOAD_ENDPOINT = "/upload" as const;

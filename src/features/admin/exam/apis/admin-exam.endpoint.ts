@@ -1,0 +1,1 @@
+export const  ADMIN_EXAM_ENDPOINT="/exams" as const;
