@@ -87,3 +87,25 @@ The application uses a feature-based structure to organize pages, components, AP
 ---
 
 Built with React, TypeScript, and Vite.
+
+
+## Screenshots
+
+### Login Page
+![Login Page](public/screenshots/login.png)
+
+### Diploma Dashboard
+![Aiploma Dashboard](public/screenshots/diploma_dashboard.png)
+
+### Exams Page
+![Exams Page](public/screenshots/exams.png)
+
+### Account Setting 
+![Account Setting](public/screenshots/account_page.png)
+
+### Exam Questions 
+![Exam Questions](public/screenshots/exam_questions.png)
+
+### Question Submission 
+![Question Submission](public/screenshots/questions_submission.png)
+
