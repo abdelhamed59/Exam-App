@@ -60,6 +60,7 @@ export default function ExamCard({ exam }: IExamCardProps) {
               })
             }
             size="sm"
+              disabled={exam.questionsCount === 0}
             className="gap-2.5 px-4 py-2 font-mono"
           >
             START <MoveRight size={18} />
