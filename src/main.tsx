@@ -7,8 +7,9 @@ import { routes } from "./routes";
 import App from "./app";
 import { Toaster } from "./components/ui/toast";
 
-const router = createBrowserRouter(routes);
-
+const router = createBrowserRouter(routes, {
+  basename: "/Exam-App",
+});
 const root = document.getElementById("root")!;
 
 createRoot(root).render(
